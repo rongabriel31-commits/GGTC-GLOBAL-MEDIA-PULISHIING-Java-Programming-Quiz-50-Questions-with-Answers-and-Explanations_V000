@@ -1,4 +1,52 @@
 # GGTC-GLOBAL-MEDIA-PULISHIING-Java-Programming-Quiz-50-Questions-with-Answers-and-Explanations_V000
+
+Active GGTC Ecosystem Domains
+
+Core Infrastructure
+
+* GGTC.info
+* Quibhoball.com
+* GGTCAI.GLOBAL
+
+⸻
+
+Media + Publishing
+
+* GGTCGLOBALMEDIA.COM
+* GGTCPUBLISHING.COM
+* GGTCSTUDIOS.COM
+
+⸻
+
+Training + Education
+
+* GGTCTRAINING.COM
+* GGTCSTEMTRAINING.COM
+* GGTCQUANTUMKIDS.ORG
+
+⸻
+
+Expansion Systems
+
+* GGTCUNIVERSE.COM
+* GGTCMULTIMULTIVERSE.COM
+
+⸻
+
+Commerce + Platform Infrastructure
+
+* GGTC.STORE
+* GGTC.LIVE
+* QUIBHOBALL.PRO
+
+⸻
+
+👥 AUTHORS + MEDIA TEAM
+
+
+
+
+
 A part of the Better Reading Series Education program GGTC 
 
 
