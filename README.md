@@ -43,7 +43,45 @@ Commerce + Platform Infrastructure
 
 👥 AUTHORS + MEDIA TEAM
 
+Contributor
 
+Operational Layer
+
+Olivia Bennett
+
+STEM Research Systems
+
+Daniel Carter
+
+SEO Infrastructure
+
+Ethan Brooks
+
+Governance Continuity
+
+Rachel Kim
+
+Content Systems
+
+Michael Torres
+
+Digital Content Architecture
+
+Evan Medeiros
+
+Semantic Media Systems
+
+Bishop Winthrop
+
+Visual Documentation
+
+George Proctor
+
+Media Specialist Analyst
+
+Antonio Fabrizio
+
+Team Logistics Specialist
 
 
 
