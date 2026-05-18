@@ -2345,3 +2345,5 @@ Explanation: this refers to the current instance of the class.
 ⸻
 
 If you want, I can turn this next into a clean exam-bank format, a numbered worksheet with no divider lines, or a DOCX/PDF library handout layout.
+
+
